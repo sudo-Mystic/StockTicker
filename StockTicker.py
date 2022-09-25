@@ -6,7 +6,7 @@ url = "https://latest-stock-price.p.rapidapi.com/price"
 querystring = {"Indices":"NIFTY 500","Identifier":"SBINEQN,TRIDENTEQN,ALOKINDSBEN,TATACHEMEQN,TATAPOWEREQN,STLTECHEQN,VEDLEQN,DEEPAKNTREQN,RELIANCEEQN ,INFYEQN ,IEXEQN ,UNOMINDAEQN ,IRCTCEQN,CDSLEQN"}
 
 headers = {
-    "X-RapidAPI-Key": "f272455531msh8b0fbc38f21880dp1a12fajsn81a77cc0bd0b",
+    "X-RapidAPI-Key": "xxxxxxxxxxxxxxxxxxxxxxxxxxx",
     "X-RapidAPI-Host": "latest-stock-price.p.rapidapi.com"
 }
 while True:
